@@ -46,6 +46,8 @@ Genre Popularity: Provides insight into the financial success and volume of movi
 Director & Star Analysis: Allows users to explore the top-performing directors and stars, with an option to view detailed portfolios.
 Financial Summary: Presents key financial metrics such as total gross earnings and profitability across movies.
 Dynamic Filters: Includes interactive slicers, dropdowns, and timeline controls to filter data by genre, director, year, and more.
+![Genres analysis dashboard](https://github.com/user-attachments/assets/d68e2616-bb5d-46de-bc34-c04090e408b7)
+![Director analysis dashboard](https://github.com/user-attachments/assets/5355c81d-14cc-4488-af79-0ac8e247d909)
 
 ## Excel Features Used
 Pivot Tables for dynamic analysis of budget, gross earnings, and movie count by genre.
